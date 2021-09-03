@@ -1,0 +1,11 @@
+        First of all, the internet is complicated.  There are so many moving parts to it, but our computers
+    will only take us to where we want to go.    We usually start with a protocol, typically http or https, if it is 
+    secure. Then we need to enter where we want to go.  This can be identified as an IP address which is just a bunch
+    of numbers.  Since memorizing numbers can be difficult, especially with a bunch of websites to go to, domain
+    names are more common.  Afterwards, we can give a specific request of where we want to go on the domain,
+    which is indicated with a /specificrequest.
+
+
+            An example of this would be https://www.facebook.com/jacob-albiston. We have our https protocol, which fetches
+        the resource, or the domain name, facebook.com.  In this example, we have a specific end request we want to go to,
+        which is the page jacob-albiston. 
